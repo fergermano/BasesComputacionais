@@ -12,7 +12,7 @@
 
 ### Semana 2: [Variáveis e Algoritmos](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula2/Vari%C3%A1veis%20e%20algoritmos.ipynb#/)
 
-### Semana 3: [Representação gráfica de funções](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/)
+### Semana 3: [Representação gráfica de funções matemáticas](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/)
 
 ### Semana 4: [Estruturas Condicionais](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula4/EstruturasCondicionais.ipynb#/)
 
